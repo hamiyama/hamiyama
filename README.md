@@ -13,9 +13,13 @@
 - **Базами данных**: PostgreSQL, MS SQL Server
 - **Инструментами**: Git, Visual Studio, VS Code, 1С:Предприятие
 
+## 📂 Мои проекты  
+📌 [1С конфигурация ведения учета депозитов металлических счетов](https://github.com/Metal-deposits)  
+
 ## 📫 Связь
 📧 Email: khayfullina.lera@mail.ru 
 📂 [Telegram](https://t.me/jukuwoshintani)  
+
 
 <!--
 **hamiyama/hamiyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
